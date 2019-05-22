@@ -4,3 +4,8 @@ A collection of code I have written throughout my years in high school
 This is a variety of coding I have done. Several different languages and platforms were used in this compilation.
 Some of the code requires hardware to be completed or fully understood.
 
+The "Choose your own adventure" file allows the user to change the course of the story. The code asks and responds
+correctly to user input throughout the story.
+
+The "GPA Calculater" file allows the user to input their information and the code will calculate their GPA.
+
