@@ -14,3 +14,7 @@ and move the car left and right.
 
 The "RubeGoldberg" file codes an Arduino 101 board to sense a change in tilt, which activates an LCD screen to print
 a message.
+
+The "Light Show" file uses an Arduino 101 board and LED lights to blink to the beat of music.
+
+The "Racecar picture" file prints a picture of a racecar that I made using a variety of different lines and graphs.
