@@ -17,4 +17,4 @@ a message.
 
 The "Light Show" file uses an Arduino 101 board and LED lights to blink to the beat of music.
 
-The "Racecar picture" file prints a picture of a racecar that I made using a variety of different lines and graphs.
+The "Racecar picture" file prints a picture of a racecar that I made using a variety of different lines and shapes on a graph.
