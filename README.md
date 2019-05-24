@@ -18,3 +18,6 @@ a message.
 The "Light Show" file uses an Arduino 101 board and LED lights to blink to the beat of music.
 
 The "Racecar picture" file prints a picture of a racecar that I made using a variety of different lines and shapes on a graph.
+
+The "Remote control default clawbot" file is the code that programs the controller for the robot we used in the vex
+competitions in the year of 2017-2018.
